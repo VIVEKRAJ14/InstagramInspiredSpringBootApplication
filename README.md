@@ -83,10 +83,6 @@ The comment controller manages comments on posts.
 * POST /comment
 Add a new comment to a post.
 
->## Contributors
-
-Satyam Jaiswal(satyam1459)
-
 >## Project Summary
 This project is an Instagram-inspired application developed using Spring Boot. It aims to provide users with a platform to share and interact with posts, follow other users, like posts, and comment on them. The project utilizes RESTful APIs to expose various endpoints for user management, authentication, post handling, and comment management.
 
