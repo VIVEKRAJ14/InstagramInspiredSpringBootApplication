@@ -39,7 +39,7 @@ SignInInput: Includes the email and password for user authentication during sign
 
 Please note that the actual implementation and details of these schemas may vary within the project code.
 
-> ##Endpoints
+>##Endpoints
 
 * PUT /user
 Update user information.
